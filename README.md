@@ -1,2 +1,2 @@
-# computational-science-python-
-Data modeling, numerical simulations, and statistical curve fitting in Python.
+# Computational Science & Kinetic Modeling
+Modeling complex physical and chemical systems using numerical simulation, rate constant extraction, and exponential decay profiling in Python.
